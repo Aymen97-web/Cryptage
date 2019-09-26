@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/menu/fichier/charger.ico</file>
+        <file>images/menu/fichier/enregistrer.ico</file>
+        <file>images/menu/fichier/quitter.ico</file>
+        <file>images/texte/crypter.ico</file>
+        <file>images/texte/decrypter.ico</file>
+        <file>images/menu/aide/apropos.ico</file>
+        <file>images/ladybug_002.png</file>
+        <file>images/menu/aide/Qt.png</file>
+        <file>images/menu/edition/copy.png</file>
+        <file>images/menu/edition/couper.png</file>
+        <file>images/menu/edition/paste.png</file>
+        <file>images/menu/aide/ensi.png</file>
+    </qresource>
+</RCC>
